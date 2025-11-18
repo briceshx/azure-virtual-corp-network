@@ -1,5 +1,5 @@
 Virtual Corporate Network
-# Azure Virtual Corporate Network Lab
+# Azure Virtual Corporate Network 
 
 This project simulates a small corporate network in Microsoft Azure.  
 It is designed as a portfolio / learning lab for Azure networking, security, and automation.
